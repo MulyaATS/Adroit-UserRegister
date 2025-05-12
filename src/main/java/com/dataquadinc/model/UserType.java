@@ -6,6 +6,7 @@ import jakarta.persistence.Table;
 public enum UserType {
 
     TEAMLEAD,
-    SALES
+    SALES,
+    RECRUITER
 
 }
